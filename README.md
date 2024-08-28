@@ -17,5 +17,5 @@ Despite the promising future of molecular automation, this custom GPT recognizes
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 
-<br>
+***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
